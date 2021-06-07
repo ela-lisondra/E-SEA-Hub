@@ -1,0 +1,21 @@
+body {
+    font-family: 'HK-Grotesk-Medium', sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #414141;
+    background-image: url(../images/background.jpg);
+    /* whenever you're using bg size and giving it a fixed value one of your x or y should be auto  */
+    background-size: 100% auto;
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+a {
+    text-decoration: none;
+    color: #414141;
+}
+
+li {
+    list-style-type: none;
+}
+
